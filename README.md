@@ -1,4 +1,5 @@
-# BLM-4522-
+# BLM-4522-Veritabanı Yedekleme ve Felaketten Kurtarma Planı
+
 # ADIM 1: Veritabanı Durumunun Değerlendirilmesi
 # Bu aşamada, SalesDB veritabanının mevcut durumu ve kurtarma modeli incelenmiştir. Veritabanının yedekleme geçmişi ve özellikleri kontrol edilmiştir.
 # ADIM 2: Kurtarma Modelinin FULL Olarak Ayarlanması
